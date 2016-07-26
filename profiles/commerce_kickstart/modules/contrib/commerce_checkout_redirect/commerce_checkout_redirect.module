@@ -262,6 +262,7 @@ function commerce_checkout_redirect_form_alter(&$form, &$form_state, $form_id) {
   }
 }
 
+
 /**
  * Submit callback for the user forms that will perform the redirection.
  */
