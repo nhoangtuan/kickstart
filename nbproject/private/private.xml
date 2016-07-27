@@ -4,7 +4,10 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/var/www/drupalkickstart/profiles/commerce_kickstart/modules/contrib/commerce_checkout_redirect/commerce_checkout_redirect.module</file>
-            <file>file:/var/www/drupalkickstart/modules/system/system.api.php</file>
+            <file>file:/var/www/drupalkickstart/profiles/commerce_kickstart/modules/contrib/commerce/modules/cart/commerce_cart.module</file>
+            <file>file:/var/www/drupalkickstart/profiles/commerce_kickstart/modules/contrib/commerce_add_to_cart_confirmation/commerce_add_to_cart_confirmation.module</file>
+            <file>file:/var/www/drupalkickstart/profiles/commerce_kickstart/modules/contrib/commerce_add_to_cart_confirmation/commerce_add_to_cart_confirmation.views_default.inc</file>
+            <file>file:/var/www/drupalkickstart/profiles/commerce_kickstart/modules/contrib/commerce_add_to_cart_confirmation/commerce_add_to_cart_confirmation.rules.inc</file>
         </group>
     </open-files>
 </project-private>

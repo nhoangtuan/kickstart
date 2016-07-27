@@ -2391,6 +2391,7 @@ function commerce_cart_add_to_cart_views_form_refresh($form, $form_state) {
 /**
  * Form submit handler: add the selected product to the cart.
  */
+
 function commerce_cart_add_to_cart_form_submit($form, &$form_state) {
   $product_id = $form_state['values']['product_id'];
   $product = commerce_product_load($product_id);
